@@ -1,6 +1,6 @@
 # How to run correctly
 
-Copy the "ClassiCube.js" file to the "Offline-Singleplayer-ClassiCube" folder (All "ClassiCube.js" versions will be on "Version-selection" folder)
+Extract "Version-selection.zip" and copy the "ClassiCube.js" file to the "Offline-Singleplayer-ClassiCube" folder (All "ClassiCube.js" versions will be on "Version-selection" folder)
 
 # No textures when executing for first time
 
