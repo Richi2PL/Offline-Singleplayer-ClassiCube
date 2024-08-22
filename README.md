@@ -1,4 +1,4 @@
-# How to run correctly other version
+# How to run correctly other versions
 
 Extract "Version-selection.zip" and copy the "ClassiCube.js" file to the "Offline-Singleplayer-ClassiCube" folder to replace the original one (All "ClassiCube.js" versions will be on "Version-selection" folder)
 
