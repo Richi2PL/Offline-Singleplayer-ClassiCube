@@ -12,7 +12,7 @@ Sadly, this can't reproduce sounds/music when playing
 
 # Custom skins
 
-Well, just extract the "default/classicube.zip" file and replace the "char.png" file with your skin and compress all after
+Well, just extract the "default/default_0023/classicube.zip" file and replace the "char.png" file with your skin and compress all after
 
 # Executing older versions before "2022/12/23"
 
