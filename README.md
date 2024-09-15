@@ -4,7 +4,7 @@ Extract "Version-selection.zip" and copy the "ClassiCube.js" file to the "Offlin
 
 # No textures when executing for first time
 
-The game runs with no texture; please just load "default/classicube.zip" texture files
+The game runs with no texture; please just load "default/defalut_0023/classicube.zip" texture files
 
 # No sounds when playing
 
