@@ -24,4 +24,4 @@ Well, probably I will be updating this every week
 
 # Multiplayer?
 
-Yes there is, but it is necessary to modify line number 128 of index_multiplayertest.html or line number 77 of index_original_multiplayertest.html so that you can connect to a server.
+Yes there is, but it is necessary to modify line number 128 of index_multiplayertest.html or line number 77 of index_original_multiplayertest.html so that you can connect to the server you want.
