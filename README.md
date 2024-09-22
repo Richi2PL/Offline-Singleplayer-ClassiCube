@@ -21,3 +21,7 @@ Sadly, this can't execute older versions before "2022/12/23" :<
 # When it's going to be a new update?
 
 Well, probably I will be updating this every week
+
+# Multiplayer?
+
+Yes there is, but it is necessary to modify line number 128 of index_multiplayertest.html or line number 77 of index_original_multiplayertest.html so that you can connect to a server.
