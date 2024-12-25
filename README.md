@@ -4,11 +4,11 @@ Extract "Version-selection.zip" and copy the "ClassiCube.js" file to the "Offlin
 
 # No textures when executing for first time
 
-The game runs with no texture; please just load "default/defalut_0023/classicube.zip" texture files
+The game always runs with no textures when executing the index.html file, please just load "default/defalut_0023/classicube.zip" texture files
 
 # No sounds when playing
 
-Sadly, this can't reproduce sounds/music when playing
+Sadly, this can't play sounds/music when playing
 
 # Custom skins
 
@@ -20,7 +20,7 @@ Sadly, this can't execute older versions before "2022/12/23" :<
 
 # When it's going to be a new update?
 
-Well, probably I will be updating this every week
+Well, i have no idea
 
 # Multiplayer?
 
