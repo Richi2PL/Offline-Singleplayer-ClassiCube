@@ -30,6 +30,8 @@ Yes there is, but it is necessary to modify line number 128 of index_multiplayer
 
 Yes! links:
 
-https://richi2pl.github.io/index.html 
+https://richi2pl.github.io/index.html
+
 https://richi2pl.github.io/index_original.html
+
 https://github.com/Richi2PL/richi2pl.github.io
