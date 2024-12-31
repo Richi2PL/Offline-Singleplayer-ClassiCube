@@ -25,3 +25,11 @@ Well, i have no idea
 # Multiplayer?
 
 Yes there is, but it is necessary to modify line number 128 of index_multiplayertest.html or line number 77 of index_original_multiplayertest.html so that you can connect to the server you want.
+
+# Website?
+
+Yes! links:
+
+https://richi2pl.github.io/index.html 
+https://richi2pl.github.io/index_original.html
+https://github.com/Richi2PL/richi2pl.github.io
